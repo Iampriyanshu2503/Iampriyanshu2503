@@ -1,32 +1,45 @@
-# Hi there, This is [Priyanshu Roy (Full-Stack Developer & AI Enthusiast)](https://github.com/Iampriyanshu2503)
+# Hi there, This is [Priyanshu Roy (Full-Stack Developer & Cybersecurity Enthusiast)](https://github.com/Iampriyanshu2503)
 
 ### Passionate about Programming, AI/ML & Cybersecurity 🔐
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-roy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/iampriyanshu________)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshu712204)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyansh99vv)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu712204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-roy-aa733b293/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Iampriyanshu2503)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/iampriyanshu________)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshu712204)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyansh99vv)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyanshu712204@gmail.com)
 
----
+### What I do? 💻
 
-## What I do? 💻
+<details>
+<summary>▶ Full Stack Development</summary>
 
-**Full Stack Development**
-- [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) *(Currently Working On)*
-- MERN Stack Applications
-- Django & Flask REST APIs
+- [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) — AI-powered personalized diet & meal planner
+- [CryptoVerse](https://github.com/Iampriyanshu2503/CryptoVerse) — Premium interactive web app for learning & visualizing cryptographic algorithms from classical ciphers to modern asymmetric encryption
+- [RescueNet](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) — Zero-waste food redistribution system using AI
 
-**AI / Machine Learning**
+</details>
+
+<details>
+<summary>▶ AI / Machine Learning</summary>
+
 - Generative AI Projects
 - Computer Vision with OpenCV
 - ML Pipelines with Scikit-Learn, TensorFlow & PyTorch
 
-**Cybersecurity**
+</details>
+
+<details>
+<summary>▶ Cybersecurity & Ethical Hacking</summary>
+
 - Security-focused application design
 - Ethical Hacking & Penetration Testing concepts
+
+</details>
+
+<br clear="right"/>
 
 ---
 
@@ -50,12 +63,12 @@
   U: Unstoppable
 ```
 
-**What am I currently up to? 🔭**
+**What am I currently working on? 🔭**
 
 ```
-  - Building: Custom Diet & Meal Plan Generator (AI-powered)
-  - Learning: Advanced DSA, Competitive Programming & Generative AI
-  - Exploring: Large Language Models & Cybersecurity techniques
+  - Building  : Custom Diet & Meal Plan Generator (AI-powered)
+  - Learning  : Advanced DSA, Competitive Programming & Generative AI
+  - Exploring : Large Language Models & Cybersecurity techniques
 ```
 
 ---
@@ -64,60 +77,80 @@
 
 ### [$Programming Languages:~#]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 
 ### [$Frameworks & Libraries:~#]
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;
+<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 
 ### [$Databases:~#]
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 
-### [$Tools & DevOps:~#]
+### [$Operating Systems:~#]
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+
+### [$Integrated Development Environments:~#]
+
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;
+<a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>&nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;
+<a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+
+### [$Other Technologies:~#]
+
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
+<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
 
 ---
 
 ## What if you like my work? 🚀
 
 - ⭐ Star the projects you find useful
-- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/priyanshu-roy)
-- 📄 Check out my [Experience & Resume](https://drive.google.com/file/d/1fKaSs54MeEaa1ZaaeWFbhvUDUpsK2JU4/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1fKaSs54MeEaa1ZaaeWFbhvUDUpsK2JU4/view)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-roy-aa733b293/)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=blueviolet&style=for-the-badge)
+## Hacktoberfest Badges 🏆
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical)](https://github.com/iampriyanshu2503)
+[![@iampriyanshu2503's Holopin board](https://holopin.me/iampriyanshu2503)](https://holopin.io/@iampriyanshu2503)
+
+![Badge](https://holopin.io/api/badge/cmhbtbog5001zjp045qr4z9pw)
+![Badge](https://holopin.io/api/badge/cmhbtbog50020jp04ojhyvi2f)
+![Badge](https://holopin.io/api/badge/cmhbtbodk001yjp04u4u0ljn4)
+![Badge](https://holopin.io/api/badge/cmhdab53s005djw0454cdv34y)
+![Badge](https://holopin.io/api/badge/cmhdhkhwc005fl80450rjbfij)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=blueviolet)](https://github.com/Iampriyanshu2503)
+
+[![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical)](https://github.com/iampriyanshu2503)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iampriyanshu2503&hide_border=true&theme=radical)](https://github.com/iampriyanshu2503)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iampriyanshu2503&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/iampriyanshu2503)
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=iampriyanshu2503&theme=redical)](https://github.com/iampriyanshu2503)
