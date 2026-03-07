@@ -108,7 +108,7 @@
 
 - ⭐ Star the projects you find useful
 - 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/priyanshu-roy)
-- 📄 Check out my [Experience & Resume](https://drive.google.com/drive/folders/1_bsthWmlulUry3tiZMpAbmwFtsoX_zLz)
+- 📄 Check out my [Experience & Resume](https://drive.google.com/file/d/1fKaSs54MeEaa1ZaaeWFbhvUDUpsK2JU4/view)
 
 ---
 
