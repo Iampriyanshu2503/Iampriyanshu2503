@@ -1,6 +1,6 @@
 # Hi there, This is [Priyanshu Roy (Full-Stack Developer & Cybersecurity Enthusiast)](https://github.com/Iampriyanshu2503)
 
-### Passionate about Programming, AI/ML & Cybersecurity 🔐
+### Passionate about Full Stack Development, Cybersecurity & AI/ML 🔐
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -18,7 +18,7 @@
 
 - [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) — AI-powered personalized diet & meal planner
 - [CryptoVerse](https://github.com/Iampriyanshu2503/CryptoVerse) — Premium interactive web app for learning & visualizing cryptographic algorithms from classical ciphers to modern asymmetric encryption
-- [RescueNet](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) — Zero-waste food redistribution system using AI
+- [Smart Surplus Food Redistribution](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) — Zero-waste food redistribution system using AI
 
 </details>
 
@@ -45,7 +45,8 @@
 
 ## The Questions You May Have 😕
 
-**Who are you? 👨**
+<details>
+<summary>▶ Who are you? 👨</summary>
 
 ```
   A Computer Science student who thrives to build end-to-end products combining
@@ -63,13 +64,7 @@
   U: Unstoppable
 ```
 
-**What am I currently working on? 🔭**
-
-```
-  - Building  : Custom Diet & Meal Plan Generator (AI-powered)
-  - Learning  : Advanced DSA, Competitive Programming & Generative AI
-  - Exploring : Large Language Models & Cybersecurity techniques
-```
+</details>
 
 ---
 
@@ -139,18 +134,14 @@
 
 [![@iampriyanshu2503's Holopin board](https://holopin.me/iampriyanshu2503)](https://holopin.io/@iampriyanshu2503)
 
-![Badge](https://holopin.io/api/badge/cmhbtbog5001zjp045qr4z9pw)
-![Badge](https://holopin.io/api/badge/cmhbtbog50020jp04ojhyvi2f)
-![Badge](https://holopin.io/api/badge/cmhbtbodk001yjp04u4u0ljn4)
-![Badge](https://holopin.io/api/badge/cmhdab53s005djw0454cdv34y)
-![Badge](https://holopin.io/api/badge/cmhdhkhwc005fl80450rjbfij)
-
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=blueviolet)](https://github.com/Iampriyanshu2503)
 
-[![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical)](https://github.com/iampriyanshu2503)
+[![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iampriyanshu2503&hide_border=true&theme=radical)](https://github.com/iampriyanshu2503)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iampriyanshu2503&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=iampriyanshu2503&theme=redical)](https://github.com/iampriyanshu2503)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iampriyanshu2503&layout=compact&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iampriyanshu2503&theme=redical&hide_border=true)](https://github.com/iampriyanshu2503)
