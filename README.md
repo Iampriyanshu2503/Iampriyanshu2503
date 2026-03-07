@@ -15,7 +15,7 @@
 ## What I do? 💻
 
 **Full Stack Development**
-- [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator)
+- [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) *(Currently Working On)*
 - MERN Stack Applications
 - Django & Flask REST APIs
 
@@ -108,7 +108,7 @@
 
 - ⭐ Star the projects you find useful
 - 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/priyanshu-roy)
-- 📄 Check out my [Experience & Resume]([https://drive.google.com/drive/folders/1_bsthWmlulUry3tiZMpAbmwFtsoX_zLz](https://drive.google.com/drive/folders/1UM5GRP21btMNDIIcJljYaHonNj0KNmsZ))
+- 📄 Check out my [Experience & Resume](https://drive.google.com/drive/folders/1_bsthWmlulUry3tiZMpAbmwFtsoX_zLz)
 
 ---
 
