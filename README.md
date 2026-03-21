@@ -7,16 +7,7 @@
 
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗    ██████╗  ██████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
-██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║    ██████╔╝██║   ██║ ╚████╔╝ 
-██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║    ██╔══██╗██║   ██║  ╚██╔╝  
-██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝    ██║  ██║╚██████╔╝   ██║   
-╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝  
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%2F+ML+Engineer+%F0%9F%A4%96;Builder+of+Things+That+Matter+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FFF0&center=true&vCenter=true&random=false&width=750&height=220&lines=%5BSYSTEM+BOOT%5D+Initializing...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%94;%24+Loading+modules%3A+%5BFullStack%5D+%5BSecOps%5D+%5BAI%2FML%5D+...+OK;%24+Compiling+skills%3A+Python+%E2%96%B6+React+%E2%96%B6+Django+%E2%96%B6+PyTorch+...+DONE;%24+Mounting+databases%3A+MongoDB+%E2%96%B6+PostgreSQL+%E2%96%B6+Redis+...+OK;%24+Spawning+agent%3A+Priyanshu+Roy+%7C+Builder+%C3%97+Breaker+%C3%97+Hacker;%3E%3E+WELCOME+TO+THE+MATRIX+%F0%9F%94%A5+System+ready.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Iampriyanshu2503)
 [![GitHub followers](https://img.shields.io/github/followers/Iampriyanshu2503?style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Iampriyanshu2503)
@@ -60,27 +51,58 @@
 
 ---
 
-## 📟 Currently Hacking On
+## 💀 About.exe
 
-```python
-class Priyanshu:
-    def __init__(self):
-        self.name        = "Priyanshu Roy"
-        self.role        = "Full-Stack Dev  |  Cyber Security  |  AI/ML Engineer"
-        self.languages   = ["Python", "JavaScript", "TypeScript", "C++", "Java"]
-        self.stack       = ["React", "Node.js", "Django", "Flask", "TensorFlow"]
-        self.databases   = ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
-        self.tools       = ["Docker", "Git", "Linux", "Bash", "VS Code"]
-        self.focus       = ["Ethical Hacking", "Generative AI", "System Design"]
-        self.currently   = "Building AI x Security systems that actually matter 🔐"
-        self.fun_fact    = "I debug at 2AM and call it 'productive insomnia' 🌙"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something legendary 🚀")
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=120&lines=%24+whoami+--verbose;%3E+Priyanshu+Roy+%7C+CS+Student+%7C+Builder+%7C+Breaker;%3E+Crafting+systems+at+the+edge+of+Security+%C3%97+AI+%C3%97+Full-Stack;%3E+Status%3A+ONLINE+%E2%9A%A1+%7C+Mode%3A+GRIND+%F0%9F%94%A5+%7C+Sleep%3A+OPTIONAL+%F0%9F%8C%99)](https://git.io/typing-svg)
 
-me = Priyanshu()
-me.say_hi()
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+```bash
+┌─[priyanshu@matrix]─[~]
+└──╼ $ cat about.txt
+
+  Name     : Priyanshu Roy
+  Role     : Full-Stack × Security × AI
+  OS       : Linux (btw, I use arch 😄)
+  Editor   : VS Code  ⚡
+  Terminal : Zsh + Oh-My-Zsh
+  Coffee   : Black, always ☕
+  Status   : Building & Breaking things 🔐
 ```
+
+</td>
+<td valign="top" width="50%">
+
+```bash
+┌─[priyanshu@matrix]─[~]
+└──╼ $ cat current_quest.txt
+
+  🔭 Working On  : AI × Security Platform
+  🌱 Learning    : LLM Fine-tuning & Red Team
+  👯 Open To     : Collabs & Open Source
+  💬 Ask Me About: Full-Stack, CTFs, ML
+  ⚡ Fun Fact    : I debug at 2AM 🌙
+             and call it "flow state"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Cybersecurity-00fff0?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Focus-Generative%20AI-bf5af2?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Focus-Full%20Stack-ff6b35?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Mode-Grind%20%F0%9F%94%A5-ff0055?style=flat-square&labelColor=0d1117)
+
+</div>
 
 ---
 
@@ -125,7 +147,7 @@ me.say_hi()
 |---|---|---|
 | **🥗 Custom Diet & Meal Plan Generator** | AI-powered personalized nutrition system with dynamic meal planning | [Repo](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) |
 | **🔐 CryptoVerse** | Interactive web app for learning & visualizing cryptographic algorithms — from classical ciphers to modern asymmetric encryption | [Repo](https://github.com/Iampriyanshu2503/CryptoVerse) |
-| **♻️ Smart Surplus Food Redistribution** | Zero-waste food redistribution platform powered by AI for maximum social impact | [Repo](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) |
+| **♻️ RescueNet** | Zero-waste food redistribution platform powered by AI for maximum social impact | [Repo](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) |
 
 > 📂 *Level up by exploring all my [repositories →](https://github.com/Iampriyanshu2503?tab=repositories)*
 
