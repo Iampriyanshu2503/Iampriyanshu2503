@@ -1,147 +1,183 @@
-# Hi there, This is [Priyanshu Roy (Full-Stack Developer & Cybersecurity Enthusiast)](https://github.com/Iampriyanshu2503)
+<div align="center">
 
-### Passionate about Full Stack Development, Cybersecurity & AI/ML 🔐
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshu%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=16"/>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-roy-aa733b293/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Iampriyanshu2503)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/iampriyanshu________)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshu712204)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyansh99vv)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyanshu712204@gmail.com)
+<div align="center">
 
-### What I do? 💻
+```
+██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗    ██████╗  ██████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
+██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║    ██████╔╝██║   ██║ ╚████╔╝ 
+██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║    ██╔══██╗██║   ██║  ╚██╔╝  
+██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝    ██║  ██║╚██████╔╝   ██║   
+╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝  
+```
 
-<details>
-<summary>▶ Full Stack Development</summary>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%2F+ML+Engineer+%F0%9F%A4%96;Builder+of+Things+That+Matter+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-- [Custom Diet & Meal Plan Generator](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) — AI-powered personalized diet & meal planner
-- [CryptoVerse](https://github.com/Iampriyanshu2503/CryptoVerse) — Premium interactive web app for learning & visualizing cryptographic algorithms from classical ciphers to modern asymmetric encryption
-- [Smart Surplus Food Redistribution](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) — Zero-waste food redistribution system using AI
+[![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Iampriyanshu2503)
+[![GitHub followers](https://img.shields.io/github/followers/Iampriyanshu2503?style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Iampriyanshu2503)
+[![Stars](https://img.shields.io/github/stars/Iampriyanshu2503?style=for-the-badge&color=ffd700&labelColor=0d1117)](https://github.com/Iampriyanshu2503)
 
-</details>
+</div>
 
-<details>
-<summary>▶ AI / Machine Learning</summary>
+---
 
-- Generative AI Projects
-- Computer Vision with OpenCV
-- ML Pipelines with Scikit-Learn, TensorFlow & PyTorch
+## 🧬 Namaste — I'm Priyanshu Roy
 
-</details>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<details>
-<summary>▶ Cybersecurity & Ethical Hacking</summary>
+> *"From securing systems to shipping products — I build with purpose, precision, and a touch of chaos."*
 
-- Security-focused application design
-- Ethical Hacking & Penetration Testing concepts
+🎓 **Computer Science Student** — crafting full-stack systems by day, reverse-engineering the world by night.
 
-</details>
+🔐 I'm currently **deep into** Full-Stack Development, Ethical Hacking & AI/ML pipelines.
+
+🛠️ My academic and personal mission is to engineer end-to-end products that merge **Security + Intelligence + Beautiful UI**.
+
+🧠 Particularly passionate about **Cybersecurity**, **Generative AI**, and systems that actually matter.
+
+⚡ I only ship things I'm proud of.
 
 <br clear="right"/>
 
 ---
 
-## The Questions You May Have 😕
-
-<details>
-<summary>▶ Who are you? 👨</summary>
+## 🎯 My Vibe Statement
 
 ```
-  A Computer Science student who thrives to build end-to-end products combining
-  Full-Stack Development, AI/ML, and Cybersecurity to create meaningful impact.
+🌑 Ultimate Mode: UNLOCKED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  My name describes my qualities:
-  P: Persistent
-  R: Resourceful
-  I: Innovative
-  Y: Yielding results
-  A: Analytical
-  N: Nimble
-  S: Strategic
-  H: Hard working
-  U: Unstoppable
+  Hacking through complexity, shipping full-stack sorcery,
+  and letting the AI do the heavy lifting — while I architect
+  the chaos. Fueled by lo-fi beats, dark IDEs, and the thrill
+  of breaking (and securing) things.
+
+  Stack: Deep. Coffee: Black. Sleep: Optional.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  P → Persistent    | Never stops until it ships.
+  R → Resourceful   | Builds with what's available.
+  I → Innovative    | Finds the path no one took.
+  Y → Yielding      | Results over ego, always.
+  A → Analytical    | Data before decisions.
+  N → Nimble        | Adapts. Pivots. Delivers.
+  S → Strategic     | Moves with purpose.
+  H → Hard-working  | Grind is the default state.
+  U → Unstoppable   | The end boss of my own story.
 ```
 
-</details>
+---
+
+## 🚀 Tech Stack & Arsenal
+
+*The toolkit for building, breaking, and securing things:*
+
+### 🖥️ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css&theme=dark" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,tailwind,tensorflow,pytorch&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,figma,jupyter&theme=dark" />
+</p>
+
+### 🔬 ML/AI Ecosystem
+<p>
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## Worked with
+## ⚔️ Epic Projects & Quests
 
-### [$Programming Languages:~#]
+| 🛡️ Project | 💡 Description | 🔗 |
+|---|---|---|
+| **🥗 Custom Diet & Meal Plan Generator** | AI-powered personalized nutrition system with dynamic meal planning | [Repo](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) |
+| **🔐 CryptoVerse** | Interactive web app for learning & visualizing cryptographic algorithms — from classical ciphers to modern asymmetric encryption | [Repo](https://github.com/Iampriyanshu2503/CryptoVerse) |
+| **♻️ Smart Surplus Food Redistribution** | Zero-waste food redistribution platform powered by AI for maximum social impact | [Repo](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) |
 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-
-### [$Frameworks & Libraries:~#]
-
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="flask" width="40" height="40"/></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>&nbsp;
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-
-### [$Databases:~#]
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-
-### [$Operating Systems:~#]
-
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-
-### [$Integrated Development Environments:~#]
-
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;
-<a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></a>&nbsp;
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;
-<a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-
-### [$Other Technologies:~#]
-
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
-<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
+> 📂 *Level up by exploring all my [repositories →](https://github.com/Iampriyanshu2503?tab=repositories)*
 
 ---
 
-## What if you like my work? 🚀
+## 🧭 Mission & Endgame
 
-- ⭐ Star the projects you find useful
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1fKaSs54MeEaa1ZaaeWFbhvUDUpsK2JU4/view)
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-roy-aa733b293/)
+```
+⚡ Grinding Now  : Mastering the intersection of Cybersecurity × Full-Stack × AI
+🏆 Ultimate Quest: Ship an AI-powered security platform that's both beautiful and bulletproof
+🎯 Side Quests   : Sharpening ML edges, conquering CS fundamentals, indie hacking like a pro
+```
 
 ---
 
-## Hacktoberfest Badges 🏆
+## 📊 GitHub Stats & Grind
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=iampriyanshu2503&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampriyanshu2503&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iampriyanshu2503&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35)](https://github.com/iampriyanshu2503)
+
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
 
 [![@iampriyanshu2503's Holopin board](https://holopin.me/iampriyanshu2503)](https://holopin.io/@iampriyanshu2503)
 
+</div>
+
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=iampriyanshu2503&color=blueviolet)](https://github.com/Iampriyanshu2503)
+## 🤝 Let's Team Up!
 
-[![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampriyanshu2503&show_icons=true&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
+> *Ready to vibe on code, security, or AI? Hit me up!*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iampriyanshu2503&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iampriyanshu2503&layout=compact&theme=radical&hide_border=true)](https://github.com/iampriyanshu2503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-roy-aa733b293/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iampriyanshu2503)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/iampriyanshu________)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/priyanshu712204)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/priyansh99vv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu712204@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fKaSs54MeEaa1ZaaeWFbhvUDUpsK2JU4/view)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iampriyanshu2503&theme=redical&hide_border=true)](https://github.com/iampriyanshu2503)
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*⭐ Star the repos you find useful — it means the world!*
+
+</div>
