@@ -46,30 +46,40 @@
 
 ---
 
-## 🎯 My Vibe Statement
+## 🐍 Contribution Snake
 
-```
-🌑 Ultimate Mode: UNLOCKED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-  Hacking through complexity, shipping full-stack sorcery,
-  and letting the AI do the heavy lifting — while I architect
-  the chaos. Fueled by lo-fi beats, dark IDEs, and the thrill
-  of breaking (and securing) things.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iampriyanshu2503/Iampriyanshu2503/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iampriyanshu2503/Iampriyanshu2503/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Iampriyanshu2503/Iampriyanshu2503/output/github-snake-dark.svg" />
+</picture>
 
-  Stack: Deep. Coffee: Black. Sleep: Optional.
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-  P → Persistent    | Never stops until it ships.
-  R → Resourceful   | Builds with what's available.
-  I → Innovative    | Finds the path no one took.
-  Y → Yielding      | Results over ego, always.
-  A → Analytical    | Data before decisions.
-  N → Nimble        | Adapts. Pivots. Delivers.
-  S → Strategic     | Moves with purpose.
-  H → Hard-working  | Grind is the default state.
-  U → Unstoppable   | The end boss of my own story.
+## 📟 Currently Hacking On
+
+```python
+class Priyanshu:
+    def __init__(self):
+        self.name        = "Priyanshu Roy"
+        self.role        = "Full-Stack Dev  |  Cyber Security  |  AI/ML Engineer"
+        self.languages   = ["Python", "JavaScript", "TypeScript", "C++", "Java"]
+        self.stack       = ["React", "Node.js", "Django", "Flask", "TensorFlow"]
+        self.databases   = ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+        self.tools       = ["Docker", "Git", "Linux", "Bash", "VS Code"]
+        self.focus       = ["Ethical Hacking", "Generative AI", "System Design"]
+        self.currently   = "Building AI x Security systems that actually matter 🔐"
+        self.fun_fact    = "I debug at 2AM and call it 'productive insomnia' 🌙"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something legendary 🚀")
+
+me = Priyanshu()
+me.say_hi()
 ```
 
 ---
