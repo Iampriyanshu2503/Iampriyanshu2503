@@ -148,6 +148,7 @@
 | **🥗 Custom Diet & Meal Plan Generator** | AI-powered personalized nutrition system with dynamic meal planning | [Repo](https://github.com/Iampriyanshu2503/custom_diet_meal_plan_generator) |
 | **🔐 CryptoVerse** | Interactive web app for learning & visualizing cryptographic algorithms — from classical ciphers to modern asymmetric encryption | [Repo](https://github.com/Iampriyanshu2503/CryptoVerse) |
 | **♻️ RescueNet** | Zero-waste food redistribution platform powered by AI for maximum social impact | [Repo](https://github.com/Iampriyanshu2503/Smart-Surplus-Food-Redistribution-for-Zero-Waste) |
+| **🎵 MoodTune** | AI-powered music player that detects your emotion via webcam, photo, or voice — then curates a Spotify playlist that matches your mood in real time | [Repo](https://github.com/Iampriyanshu2503/MoodTune) |
 
 > 📂 *Level up by exploring all my [repositories →](https://github.com/Iampriyanshu2503?tab=repositories)*
 
